@@ -1,6 +1,7 @@
 📊 Revenue Insights – Sales Performance & Customer Insights Dashboard
 
 🧠 Project Overview:
+
 Revenue Insights is a modern sales intelligence platform that helps businesses monitor revenue, analyze customer behavior, and optimize product performance.
 The dashboard provides real-time KPIs, interactive visualizations, and AI-powered insights to support informed decision-making.
 
@@ -19,17 +20,20 @@ The dashboard provides real-time KPIs, interactive visualizations, and AI-powere
 4. Data Export: Professional Excel report generation
 
 📊 Testing:
+
 -Backend, frontend, and integration tests completed successfully
 -AI insights generation verified
 -Navigation, filtering, and export functionality tested
 
 🎨 Design & UX:
+
 -Modern, professional UI components
 -Responsive layout for desktop and mobile
 -Interactive charts with seasonal and monthly trends
 -Clear and intuitive navigation structure
 
 📁 Project Structure:
+
 RevenuePulse/
 │
 ├── frontend/           # React UI
@@ -41,6 +45,7 @@ RevenuePulse/
 └── yarn.lock
 
 📊 Future Enhancements:
+
 -Add predictive analytics for forecasting revenue trends
 -Enhance AI-powered insights with deeper customer and product analysis
 -Include user authentication and role-based access
