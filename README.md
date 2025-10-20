@@ -35,13 +35,21 @@ The dashboard provides real-time KPIs, interactive visualizations, and AI-powere
 📁 Project Structure:
 
 RevenuePulse/
+
 │
+
 ├── frontend/           # React UI
+
 ├── backend/            # FastAPI backend
+
 ├── tests/              # Backend & frontend tests
+
 ├── test_reports/       # Test results and reports
+
 ├── .gitignore
+
 ├── README.md
+
 └── yarn.lock
 
 
